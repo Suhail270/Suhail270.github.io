@@ -1,29 +1,18 @@
-**Hi**
+                                                         Lab 1
 
-**It is I**
+This is a simple blog website made using the use of jekyll a static site generator.
 
-**Suhail Ahmed**
+Home Page:
 
-Module Name: F28WP
+<img width="1068" alt="Screen Shot 2021-09-28 at 10 03 23 AM" src="https://user-images.githubusercontent.com/57321434/135032029-98076181-204f-41e9-91d9-62615da5fd6b.png">
 
-Repository Structure:
+Blog Page:
 
-  · _layouts
-  
-  · posts
-  
-  · about
-  
-  · blog
-  
-  · css
-  
-  · .gitignore
-  
-  · README.md
-  
-  · _config.yml
-  
-  · index.html
-  
-  **Website Link:** Suhail270.github.io
+<img width="1068" alt="image" src="https://user-images.githubusercontent.com/57321434/135034187-c58c7451-b2a3-4159-9b4e-d5b045599b46.png">
+
+Blog Post:
+
+<img width="1086" alt="image" src="https://user-images.githubusercontent.com/57321434/135034308-21c6f87e-7aef-4480-9208-2e4d11f9d3fd.png">
+
+About Page:
+
