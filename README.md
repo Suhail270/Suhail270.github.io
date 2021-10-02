@@ -1,6 +1,6 @@
                                                          Lab 1
 
-This is a simple blog website made using the use of jekyll a static site generator.
+This is a blog website that made using the jekyll static site generator.
 
 Home Page:
 
