@@ -16,3 +16,4 @@ Blog Post:
 
 About Page:
 
+<img width="1090" alt="image" src="https://user-images.githubusercontent.com/57321434/135964104-e8515f5d-933e-4c47-a67a-627c65bbe8d6.png">
